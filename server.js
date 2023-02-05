@@ -15,7 +15,7 @@ app.use("/", customerroute);
 
 mongoose.set("strictQuery", false);
 mongoose.connect(
-  "mongodb+srv://amanmongodb123:amanmongodb123@cluster0.raequ.mongodb.net/StreetAnimaRescue?retryWrites=true&w=majoritycluster0.raequ.mongodb.net",
+  "mongodb+srv://samrat:tarmas91011@cluster0.mv2go.mongodb.net/Saundarrya_Db",
 
   (err) => {
     try {
